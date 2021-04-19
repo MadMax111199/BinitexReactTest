@@ -1,0 +1,17 @@
+.picker {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.paginator {
+  margin: 0 auto;
+}
+
+.dropdown {
+  margin: 5px auto;
+}
+
+.main_title {
+  padding-left: 30px;
+}
